@@ -15,5 +15,6 @@ while check:
                 time.sleep(0.001) 
                 code = ""
         except KeyboardInterrupt as error :
-                print(" codes are saved in code.txt")
+                print("codes are saved in code.txt")
+                exit()
 
