@@ -1,6 +1,4 @@
-import requests
 import random
-import json
 import time
 chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijklmnopqrstuvwxyz"
 check = True
