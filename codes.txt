@@ -1,0 +1,14 @@
+{'message': 'Unknown Gift Code', 'code': 'svqLB4e7hiSLam5Q'}
+{'message': 'Unknown Gift Code', 'code': 'E1SNEQw8XXxNvbrx'}
+{'message': 'Unknown Gift Code', 'code': 'BlPTsRdqYMXAroJ8'}
+{'message': 'Unknown Gift Code', 'code': 'XVTwQdmQjAdKngyO'}
+{'message': 'Unknown Gift Code', 'code': 'tNbQxnclta19iGTn'}
+{'message': 'Unknown Gift Code', 'code': 'T5ffMRroCNT0GT4m'}
+{'message': 'Unknown Gift Code', 'code': 'F1urVqCnQr33sKX0'}
+{'message': 'Unknown Gift Code', 'code': '2jORKT89xHkEaIxw'}
+{'message': 'Unknown Gift Code', 'code': 'IeUjcrEdMUkAEd5y'}
+{'message': 'Unknown Gift Code', 'code': 'mDeuYHZqOnbPpmaW'}
+{'message': 'Unknown Gift Code', 'code': '1qUMO0D91dII3lvg'}
+{'message': 'Unknown Gift Code', 'code': 'nE4vTb3uP9N7FzHH'}
+{'message': 'Unknown Gift Code', 'code': 'XNPBGrH5s3snw5F4'}
+{'message': 'Unknown Gift Code', 'code': 'gZJLLSlEDeVJdCbR'}
